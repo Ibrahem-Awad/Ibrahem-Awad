@@ -39,7 +39,7 @@
 
 <p align="center">
   <a href="https://tryhackme.com/p/D.1.Z.">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/D.1.Z..png" alt="TryHackMe Badge" width="300px"/>
+    <img src="https://tryhackme-badges.s3.amazonaws.com/D.1.Z..png" alt="Your Image Badge" />
   </a>
 </p>
 
